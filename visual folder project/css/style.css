@@ -533,3 +533,7 @@ width: 23%;
     }
 
 }
+
+#more {
+    display: none;
+}
